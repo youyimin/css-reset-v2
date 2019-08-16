@@ -1,3 +1,2 @@
 # css-reset-v2
-## todo
-git submodule add git@github.com:necolas/normalize.css.git
+Based on normalize.css, add reset.css and typography.css
